@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\yazıornek1\yazıornek1\bin\Debug\yazıornek1.exe.config
+C:\Users\User\source\repos\yazıornek1\yazıornek1\bin\Debug\yazıornek1.exe
+C:\Users\User\source\repos\yazıornek1\yazıornek1\bin\Debug\yazıornek1.pdb
+C:\Users\User\source\repos\yazıornek1\yazıornek1\obj\Debug\yazıornek1.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\yazıornek1\yazıornek1\obj\Debug\yazıornek1.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\yazıornek1\yazıornek1\obj\Debug\yazıornek1.Form1.resources
+C:\Users\User\source\repos\yazıornek1\yazıornek1\obj\Debug\yazıornek1.Properties.Resources.resources
+C:\Users\User\source\repos\yazıornek1\yazıornek1\obj\Debug\yazıornek1.csproj.GenerateResource.cache
+C:\Users\User\source\repos\yazıornek1\yazıornek1\obj\Debug\yazıornek1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\yazıornek1\yazıornek1\obj\Debug\yazıornek1.exe
+C:\Users\User\source\repos\yazıornek1\yazıornek1\obj\Debug\yazıornek1.pdb
